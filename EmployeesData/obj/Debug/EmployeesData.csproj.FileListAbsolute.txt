@@ -1,0 +1,15 @@
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\obj\Debug\EmployeesData.csprojAssemblyReference.cache
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\obj\Debug\EmployeesData.Properties.Resources.resources
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\obj\Debug\EmployeesData.csproj.GenerateResource.cache
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\obj\Debug\EmployeesData.csproj.CoreCompileInputs.cache
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\bin\Debug\EmployeesData.exe.config
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\bin\Debug\EmployeesData.exe
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\bin\Debug\EmployeesData.pdb
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\obj\Debug\EmployeesData.exe
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\obj\Debug\EmployeesData.pdb
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\obj\Debug\EmployeesData.Library.resources
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\bin\Debug\CsvHelper.dll
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\bin\Debug\CsvHelper.xml
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\bin\Debug\MathNet.Numerics.xml
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\obj\Debug\EmployeesData.csproj.CopyComplete
+C:\Users\Timur\Desktop\GitHub\Employees\EmployeesData\EmployeesData\bin\Debug\MathNet.Numerics.dll
